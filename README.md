@@ -1,7 +1,7 @@
 <img src='https://img.shields.io/badge/Criador-Trash%E1%B5%88%E1%B5%8F-purple' style="padding-left:30px"/>
 
 # Do que se trata esta base?
-Fiz esta base pra economizar tempo pra desenvolvedores novos que ainda estao aprendendo a como lidar com a API baileys.
+Fiz esta base pra economizar tempo pra desenvolvedores novos que ja entendem um pouco sobre programação e suas lógicas, que ainda estao aprendendo a como lidar com a API baileys.
 
 # Contato:
 <a href='https://wa.me/558494740630'>Clique para entrar em contato<a>
