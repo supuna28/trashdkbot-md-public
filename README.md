@@ -1,5 +1,6 @@
 <img src='https://img.shields.io/badge/Criador-Trash%E1%B5%88%E1%B5%8F-purple' style="padding-left:30px"/>
-
+<p align="center">Visitas</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 # Do que se trata esta base?
 Fiz esta base pra economizar tempo pra desenvolvedores novos que ainda estao aprendendo a como lidar com a API baileys.
 
