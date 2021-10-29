@@ -5,7 +5,7 @@ Fiz esta base pra economizar tempo pra desenvolvedores novos que ainda estao apr
 
 # Contato:
 <a href='https://wa.me/558494740630'>Clique para entrar em contato<a>
-# Esta base possui a licença MIT, caso seja feita a venda de um bot utilizando esta base, ou uma utilização pública sem nenhum crédito visível do criador, como, número de contato ou redes sociais, resultará em processo! Só é permitida a modificação, revenda, ou distribuição caso sejam dados os devidos créditos ao criador visivelmente no aplicativo "whatsapp", incluindo número para contato. Caso algum desses acordos seja quebrado, o criador tem direito a recorrer a justiça!
+# Esta base possui a licença MIT, retirar os creditos do criador de algum local da base e não por créditos visiveis, resultará em processo! Só é permitida a modificação, revenda, ou distribuição caso sejam dados os devidos créditos ao criador, incluindo número para contato. Caso algum desses acordos seja quebrado, o criador tem direito a recorrer a justiça!
 # Como Utilizar🤔
 # Existem duas formas. 
 Manualmente ou pelo terminal
