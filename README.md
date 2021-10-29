@@ -22,7 +22,7 @@ Desta forma os arquivos ficarão em  seu terminal!
 # Após entrar nas pastas da base(Necessário ter o nodejs instalado):
 utilize o comando:
 ```
-npm install 
+npm install --no-bin-links
 ```
 ^Pra fazer a instalação de todos os módulos necessários, incluindo o próprio baileys-multidevice
 # Iniciando o script:
