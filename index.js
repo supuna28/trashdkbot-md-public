@@ -64,11 +64,11 @@ var DisconnectReason = require("./custom_modules/@adiwajshing/baileys-md/lib/Typ
         const type = Object.keys(msg.message)[0]
         //^Tipo da mensagem dada por seu corpo//
         const from = msg.key.remoteJid
-        //^Destino de onde veui aquela mensagem//
+        //^Destino de onde veio aquela mensagem//
         const content = JSON.stringify(msg.message)
         //^mensagem completa//
         const author = msg.pushName
-        //^Pessoa que enviou a mensagem//
+        //^Nome da pessoa que enviou a mensagem//
      
       //Mapeamento de mensagens recebidas, puxando sempre o conteudo como descrissões de video imagens ou documentos//
         var body = (type === 'conversation') ? msg.message.conversation : (type == 'imageMessage') ?
@@ -98,10 +98,10 @@ var DisconnectReason = require("./custom_modules/@adiwajshing/baileys-md/lib/Typ
       //^Função pra Mensagem rapida//
 
       const isComando = prefixo.includes(body !== "" && body.slice(0, 1)) && body.slice(1) !== ''
-      //^Identificar quando a mensagem e um comando utilizando o prefixo como  inicio obrigatorio//
+      //^Identificar quando a mensagem é um comando utilizando o prefixo como  inicio obrigatorio//
 
       const comando = isComando ? body.slice(1).trim().split(' ')[0].toLowerCase() : ''
-      //^Apos detectar que é um comando, armazena qual comando foi dado//
+      //^Após detectar que é um comando, armazena qual comando foi requisitado//
 
       const argumentos = body.trim().split(/ +/).slice(1)
       //^Pega cada palavra de uma frase e separa em argumentos separados em um objeto//
