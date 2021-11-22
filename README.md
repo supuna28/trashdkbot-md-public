@@ -44,3 +44,6 @@ Ferramenta | Disponibilidade
 <Strong>A baileys md no momento atual ainda possui alguns problemas de instabilidade, utilize com cautela, você pode as vezes precisar apagar o arquivo: 'sessao.json' e rescanear o qr code!</Strong>
 # O baileys-md funciona no celular?
 a resposta é sim!
+
+# Aviso 2
+Forma de login da baileys md mudou, dêem uma olhada na documentação pra rever mudanças!
